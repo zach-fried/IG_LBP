@@ -8,3 +8,6 @@ Especially as of late, there has been a focus on the impact of the words used du
 One of the most common, and polarizing, musculoskeletal injuries that healthcare professionals are faced with is low back pain. In fact, there are approximately 1.2 million Instagram posts with the hashtag *"#backpain"*.
 
 The interplay between the use of the Instagram platform, the importance of the words used in treating musculoskeletal conditions, and the sheer amount of data available for back pain posts resulted in a curiosity as to how well guidelines on language were being followed on the Instagram platform.
+
+### Resources
+Using the *InstaLoader* Python module to scrape data from Instagram posts - https://instaloader.github.io/index.html
